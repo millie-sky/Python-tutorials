@@ -1,14 +1,41 @@
-# SQL to Pandas Tutorial
+# SQL to Python Data Science Series
 
-This repository contains a comprehensive tutorial designed to help SQL users transition to using Python's pandas library for data manipulation and analysis. The tutorial covers everything from setting up your environment in Google Colab to performing complex data manipulations that mirror SQL operations, leveraging the powerful pandas library alongside visualization tools like matplotlib and seaborn for insightful data analysis.
+This tutorial series is tailored for SQL users who wish to transition into the Python ecosystem, particularly for data science applications. Starting with the basics of setting up a Python environment and understanding pandas, the series progressively covers more advanced topics, ensuring a comprehensive learning path for data manipulation, analysis, and visualization in Python.
 
-## What's Inside
+## Table of Contents
 
-- **Setting Up**: Instructions on how to set up your Python environment in Google Colab, making it easy for anyone to follow along without the need for local installations.
-- **Fundamentals of Pandas**: An introduction to the core data structures in pandas, such as Series and DataFrames, and how to perform basic data manipulations.
-- **Transitioning from SQL to Pandas**: Detailed examples showing how common SQL tasks (querying, filtering, sorting, aggregating, and joining data) can be performed in pandas.
-- **Data Analysis and Visualization**: Guides on performing descriptive statistics, aggregations, and various forms of data visualization to extract insights from your data.
-- **Exploratory Data Analysis (EDA)**: A step-by-step approach to conducting EDA using pandas, matplotlib, and seaborn to understand data distributions, correlations, and trends.
+1. **Setting Up Python and Understanding Pandas**
+    - Setting Up the Environment in Google Colab
+    - Basic Python Syntax and Concepts
+    - Fundamentals of Pandas: Series and DataFrames
+    - Basic Operations in Pandas
+2. **Transitioning from SQL to Pandas**
+    - Querying and Filtering Data in Pandas vs. SQL
+    - Sorting and Ordering Data
+    - Grouping and Aggregating Data
+    - Merging and Joining DataFrames
+
+    
+## Upcoming Chapters
+
+3. **Data Analysis and Visualisation**
+    - Descriptive Statistics and Aggregations
+    - Introduction to Data Visualisation with Matplotlib and Seaborn
+    - Performing Simple Exploratory Data Analysis (EDA)
+4. **Data Cleaning and Preprocessing for Analysis**
+    - Techniques for Data Cleaning
+    - Handling Categorical Data
+    - Feature Engineering
+5. **Introduction to Supervised Machine Learning with scikit-learn**
+    - Basic Concepts of Supervised Machine Learning
+    - Preprocessing Data for Machine Learning
+    - Building Your First Machine Learning Model
+6. **Introduction to Unsupervised Machine Learning with scikit-learn**
+    - Basic Concepts of Supervised Machine Learning
+    - Preprocessing Data for Machine Learning
+    - Building Your First Machine Learning Model
+7. **Introduction to Natural Language Processing**
+
 
 ## Prerequisites
 
